@@ -14,9 +14,9 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 ▸ Problem Solving with C Programming and Python Programming Language
 
 ### Worked On: 
-⚛ REACTJS
-📲 React Native
-💻 HTML5, CSS3 & JavaScript
+- ⚛ REACTJS
+- 📲 React Native
+- 💻 HTML5, CSS3 & JavaScript
 
 
 - 🔭 I’m currently working on RadhaPolyClinic - Power to Heal 
