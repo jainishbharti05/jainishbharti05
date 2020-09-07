@@ -3,6 +3,9 @@
 
 I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing. I really enjoy learning new languages and frameworks like React and React Native, as well as Django and Flask for Backend. Preferably, choose MongodB Express React Nodejs as my working Stack! You can check out my twitter at https://twitter.com/jainishbharti05 or my LinkedIn at www.linkedin.com/in/jainishbharti
 
+### GitHub ReadMe Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05&theme=radical&show_icons=true) 
 
 ## Skills& Experiences
 - An Year of Experience with Web UI Designing and Development
@@ -19,6 +22,11 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 - 💻 HTML5, CSS3 & JavaScript
 
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainishbharti05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Current Projects
 
 
@@ -26,9 +34,6 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 - 🔭 I’m currently working on RadhaPolyClinic - Power to Heal 
 - 🌱 I’m currently learning React JS , React Native and few Python Modules
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05&theme=radical&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainishbharti05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
 
 
 ##### Contact me
