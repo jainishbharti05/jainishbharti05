@@ -5,20 +5,20 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 
 
 ### Skills& Experiences
-▸ An Year of Experience with Web UI Designing and Development
-▸ HTML5, CSS3 & Javascript
-▸ MongoDB Express React NodeJs Stack Development
-▸ Built a few Web Applications with Flask
-▸ Worked on Django Web Framework
-▸ Deployment and Hosting
-▸ Problem Solving with C Programming and Python Programming Language
+- An Year of Experience with Web UI Designing and Development
+- HTML5, CSS3 & Javascript
+- MongoDB Express React NodeJs Stack Development
+- Built a few Web Applications with Flask
+- Worked on Django Web Framework
+- Deployment and Hosting
+- Problem Solving with C Programming and Python Programming Language
 
 ### Worked On: 
 - ⚛ REACTJS
 - 📲 React Native
 - 💻 HTML5, CSS3 & JavaScript
 
-
+### Current Objectives
 - 🔭 I’m currently working on RadhaPolyClinic - Power to Heal 
 - 🌱 I’m currently learning React JS , React Native and few Python Modules
 
