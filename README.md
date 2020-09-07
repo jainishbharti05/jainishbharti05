@@ -6,6 +6,7 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 
 ### Skills& Experiences
 ▸ An Year of Experience with Web UI Designing and Development
+
 ▸ HTML5, CSS3 & Javascript
 ▸ MongoDB Express React NodeJs Stack Development
 ▸ Built a few Web Applications with Flask
