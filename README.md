@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**jainishbharti05/jainishbharti05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jainish from India, and I develop the Backend of Web-Applications and a sort of UX/UI Designing. I really enjoy learning new languages and frameworks like React and React Native, as well as Django and Flask for Backend. Preferably, choose MongodB Express React Nodejs as my working Stack!
+You can check out my twitter at https://twitter.com/jainishbharti05 or my LinkedIn at www.linkedin.com/in/jainishbharti
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-### 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-### 📫 How to reach me: Email : jainishbharti05@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Jainish's github stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05)](https://github.com/anuraghazra/github-readme-stats)
+
