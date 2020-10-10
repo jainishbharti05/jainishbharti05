@@ -40,6 +40,14 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/jainishbharti05)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/jainishbharti/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/jainish.bharti)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/jainish_thinks/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/jainishharti05)  
 
+#### LinkedIn
+    <div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal"
+        data-theme="light" data-vanity="jainishbharti"><a class="LI-simple-link"
+            href='https://in.linkedin.com/in/jainishbharti?trk=profile-badge'>Jainish Bharti</a></div>
+
+
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 ![Profile views](https://gpvc.arturio.dev/jainishbharti05)  
 . 
