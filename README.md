@@ -1,5 +1,5 @@
 # Jainish Bharti
-### UX/UI Design & Development 
+### Full Stack Developer
 
 I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing. I really enjoy learning new languages and frameworks like React and React Native, as well as Django and Flask for Backend. Preferably, choose MongodB Express React Nodejs as my working Stack! You can check out my twitter at https://twitter.com/jainishbharti05 or my LinkedIn at www.linkedin.com/in/jainishbharti
 
