@@ -18,6 +18,7 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 
 ## Worked On: 
 - ⚛ REACTJS
+- ❄ REDUX
 - 📲 React Native
 - 💻 HTML5, CSS3 & JavaScript
 
