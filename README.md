@@ -17,8 +17,8 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 - Problem Solving with C Programming and Python Programming Language
 
 ## Worked On: 
-- ⚛ REACTJS
-- ❄ REDUX
+- ⚛ ReactJs
+- ❄ Redux
 - 📲 React Native
 - 💻 HTML5, CSS3 & JavaScript
 
