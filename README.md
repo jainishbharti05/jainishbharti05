@@ -32,8 +32,8 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 
 
 ### Current Objectives
-- 🔭 I’m currently working on RadhaPolyClinic - Power to Heal 
-- 🌱 I’m currently learning React JS , React Native and few Python Modules
+- 🔭 I’m currently working on Cloning Tinder Web App 
+- 🌱 I’m currently practising my React & Redux Skills.
 
 
 
