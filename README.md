@@ -1,12 +1,12 @@
 # Jainish Bharti
 #### Full Stack Developer
 
-◾ I am Jainish Bharti, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing&nbsp;      
-◾ I'm practicing Software Development and aiming to become a Full Stack Software Developer&nbsp;                                                                
-◾ I have really enjoyed working on various languages like JavaScript, Python, C, JAVA and a few frameworks like React for front-end, as well as Django and Flask&nbsp;          
-◾ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!&nbsp;                                                                            
-◾ Trying my hands on Android Development using Flutter                                                                                                           
-◾ Also planning to upgrade my skills as Data Scientist                                                                                                   
+▸ I am Jainish Bharti, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing.                   
+▸ I'm practicing Software Development and aiming to become a Full Stack Software Developer.                                                                
+▸ I have really enjoyed working on various languages like JavaScript, Python, C, JAVA and a few frameworks like React for front-end, as well as Django and Flask.          
+▸ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!.                                                                            
+▸ Trying my hands on Android Development using Flutter.                                                                                                           
+▸ Also planning to upgrade my skills as Data Scientist.                                                                                                   
 
 
 ![Profile views](https://gpvc.arturio.dev/jainishbharti05)  
