@@ -1,17 +1,12 @@
 # Jainish Bharti
 #### Full Stack Developer
 
-◾ I am Jainish Bharti, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing&nbsp; 
-
-◾ I'm practicing Software Development and aiming to become a Full Stack Software Developer&nbsp; 
-
+◾ I am Jainish Bharti, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing&nbsp;      
+◾ I'm practicing Software Development and aiming to become a Full Stack Software Developer&nbsp;                                                                
 ◾ I have really enjoyed working on various languages like JavaScript, Python, C, JAVA and a few frameworks like React for front-end, as well as Django and Flask&nbsp; 
-
-◾ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!&nbsp; 
-
-◾ Trying my hands on Android Development using Flutter
-
-◾ Also planning to upgrade my skills as Data Scientist
+◾ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!&nbsp;                                                                            
+◾ Trying my hands on Android Development using Flutter                                                                                                           
+◾ Also planning to upgrade my skills as Data Scientist                                                                                                   
 
 
 ![Profile views](https://gpvc.arturio.dev/jainishbharti05)  
@@ -23,12 +18,12 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05&theme=radical&show_icons=true)  -->
 
 #### Skills& Experiences
-▸ An Year of Experience with Web UI Designing and Development&nbsp;
-▸ HTML5, CSS3 & Javascript&nbsp;
-▸ MERN Stack Development&nbsp;
-▸ Worked on Django & Flask (Python Web Framework)&nbsp;
-▸ Deployment and Hosting&nbsp;
-▸ Problem Solving with C Programming and Python Programming Language&nbsp;
+▸ An Year of Experience with Web UI Designing and Development&nbsp;       
+▸ HTML5, CSS3 & Javascript&nbsp;     
+▸ MERN Stack Development&nbsp;                     
+▸ Worked on Django & Flask (Python Web Framework)&nbsp;             
+▸ Deployment and Hosting&nbsp;                                           
+▸ Problem Solving with C Programming and Python Programming Language&nbsp;   
 
 #### Worked on: 
 ⚛ReactJs | ❄Redux | 🔗NodeJs | 📲React Native | 💻 HTML5, CSS3 & JavaScript | 🎡Django- Python Web Framework
