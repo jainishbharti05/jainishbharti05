@@ -1,24 +1,24 @@
 # Jainish Bharti
 ### Full Stack Developer
 
-I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing. I really enjoy learning new languages and frameworks like React and React Native, as well as Django and Flask for Backend. Preferably, choose MongodB Express React Nodejs as my working Stack! You can check out my twitter at https://twitter.com/jainishbharti05 or my LinkedIn at www.linkedin.com/in/jainishbharti
+I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing. I have really enjoyed working on various languages like JavaScript, Python, C, JAVA and a few frameworks like React for front-end, as well as Django and Flask for Backend. Preferably,I choose MERN as my working Stack! You can check out my LinkedIn at www.linkedin.com/in/jainishbharti
 
 ### GitHub ReadMe Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05&theme=radical&show_icons=true) 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05&theme=radical&show_icons=true)  -->
 
 ## Skills& Experiences
 - An Year of Experience with Web UI Designing and Development
 - HTML5, CSS3 & Javascript
-- MongoDB Express React NodeJs Stack Development
-- Built a few Web Applications with Flask
-- Worked on Django Web Framework
+- MERN Stack Development
+- Worked on Django & Flask (Python Web Framework)
 - Deployment and Hosting
 - Problem Solving with C Programming and Python Programming Language
 
 ## Worked On: 
 - ⚛ ReactJs
 - ❄ Redux
+- 🔗 NodeJs
 - 📲 React Native
 - 💻 HTML5, CSS3 & JavaScript
 
@@ -29,7 +29,9 @@ I'm Jainish, an Under-Graduate in Information Technology Dept, and I develop the
 
 
 ## Current Projects
-
+ - Working on web application of Health.io(Smart Healthcare Management System)
+ - Built a task/notes making application [https://notes-313614.web.app]
+ - Built & Hosted a static website for an Electricals Store
 
 ### Current Objectives
 - 🔭 I’m currently working on Cloning Tinder Web App 
