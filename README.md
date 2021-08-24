@@ -2,15 +2,21 @@
 #### Full Stack Developer
 
 ◾ I am Jainish Bharti, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing&nbsp; 
+
 ◾ I'm practicing Software Development and aiming to become a Full Stack Software Developer&nbsp; 
+
 ◾ I have really enjoyed working on various languages like JavaScript, Python, C, JAVA and a few frameworks like React for front-end, as well as Django and Flask&nbsp; 
+
 ◾ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!&nbsp; 
-◾ You can check out my LinkedIn at www.linkedin.com/in/jainishbharti&nbsp; 
+
+◾ Trying my hands on Android Development using Flutter
+
+◾ Also planning to upgrade my skills as Data Scientist
+
 
 ![Profile views](https://gpvc.arturio.dev/jainishbharti05)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/jainishbharti05)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/jainishbharti/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/jainishharti05)  
+[![GitHub jainishbharti05](https://img.shields.io/github/followers/jainishbharti05?label=follow&style=social)](https://github.com/jainishbharti05)
+
 
 ##### GitHub ReadMe Stats
 
@@ -56,6 +62,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
+
+
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/jainishbharti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="jainishbharti05@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/jainish_thinks"><img src="https://img.shields.io/badge/-@srvraj311-05122A?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 
