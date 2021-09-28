@@ -50,6 +50,8 @@
 #### Current Objectives
 - 🔭 I’m currently working on Cloning Tinder Web App 
 - 🌱 I’m currently practising my React & Redux Skills.
+- 🌟 Getting my hands on Data Structure and Algorithms.
+- 🎡 Working on my Problem Solving Skills
 
 #### Others
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
