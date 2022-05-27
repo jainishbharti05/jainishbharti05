@@ -1,12 +1,12 @@
 # Jainish Bharti
 #### Full Stack Developer
 
-▸ I am Jainish Bharti, an Under-Graduate in Information Technology Dept, and I develop the Backend of Web-Applications and a sort of UX/UI Designing.                   
-▸ I'm practicing Software Development and aiming to become a Full Stack Software Developer.                                                                
-▸ I have really enjoyed working on various languages like JavaScript, Python, C, JAVA and a few frameworks like React for front-end, as well as Django and Flask.          
+▸ I, Jainish Bharti, an UnderGrad in Information Technology Dept, and I develop Backend logic of Web-Applications and sort of UX/UI Designing.                   
+▸ I'm practicing Software Development and aims to become a Full Stack Software Developer.                                                                
+▸ I have really enjoyed working on languages like JavaScript, Python, JAVA and a few frameworks like React, Django, Flask and Spring.          
 ▸ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!.                                                                            
-▸ Trying my hands on Android Development using Flutter.                                                                                                           
-▸ Also planning to upgrade my skills as Data Scientist.                                                                                                   
+▸ Trying my hands on Java Development using Spring, Jax-rs, JSPs & Servlets.                                                                                                           
+▸ Also planning to upgrade my skills as Data Scientist.                                                                                               
 
 
 ![Profile views](https://gpvc.arturio.dev/jainishbharti05)  
@@ -18,15 +18,15 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainishbharti05&theme=radical&show_icons=true)  -->
 
 #### Skills& Experiences
-▸ An Year of Experience with Web UI Designing and Development&nbsp;       
+▸ Years of Experience with Web UI Designing and Development&nbsp;       
 ▸ HTML5, CSS3 & Javascript&nbsp;     
 ▸ MERN Stack Development&nbsp;                     
-▸ Worked on Django & Flask (Python Web Framework)&nbsp;             
+▸ Worked on Django, Flask, Spring, Jax-Rs, React, Redux &nbsp;             
 ▸ Deployment and Hosting&nbsp;                                           
-▸ Problem Solving with C Programming and Python Programming Language&nbsp;   
+▸ Problem Solving with JAVA and Python Programming Language&nbsp;   
 
 #### Worked on: 
-⚛ReactJs | ❄Redux | 🔗NodeJs | 📲React Native | 💻 HTML5, CSS3 & JavaScript | 🎡Django- Python Web Framework
+⚛ReactJs | ❄Redux | 🔗NodeJs | 📲React Native | 💻 HTML5, CSS3 & JavaScript | 🎡Django- Python Web Framework | 🕸️Spring | 🐄JAX-RS(Jersey) 
 
 
 <!-- ## Top Languages -->
@@ -42,13 +42,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainishbharti05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-#### Current Projects
+#### Projects
  - Working on web application of Health.io(Smart Healthcare Management System)
+ - Built a Online BookSelling Portal named as BookTown- Resell And Explore [https://murmuring-hamlet-71750.herokuapp.com/]
  - Built a task/notes making application [https://notes-313614.web.app]
- - Built & Hosted a static website for an Electricals Store
+ - Built & Hosted a static website for an Electrical Store
 
 #### Current Objectives
-- 🔭 I’m currently working on Cloning Tinder Web App 
 - 🌱 I’m currently practising my React & Redux Skills.
 - 🌟 Getting my hands on Data Structure and Algorithms.
 - 🎡 Working on my Problem Solving Skills
