@@ -5,7 +5,7 @@
 ▸ I'm practicing Software Development and aims to become a Full Stack Software Developer.                                                                
 ▸ I have really enjoyed working on languages like JavaScript, Python, JAVA and a few frameworks like React, Django, Flask and Spring.          
 ▸ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!.                                                                            
-▸ Trying my hands on Java Development using Spring, Jax-rs, JSPs & Servlets.                                                                                                           
+▸ Trying my hands on Java Development using Spring, JAX-RS, JSPs & Servlets.                                                                                                           
 ▸ Also planning to upgrade my skills as Data Scientist.                                                                                               
 
 
