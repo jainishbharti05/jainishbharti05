@@ -1,11 +1,12 @@
 # Jainish Bharti
 #### Full Stack Developer
 
-▸ I, Jainish Bharti, an UnderGrad in Information Technology Dept, and I develop Backend logic of Web-Applications and sort of UX/UI Designing.                   
-▸ I'm practicing Software Development and aims to become a Full Stack Software Developer.                                                                
-▸ I have really enjoyed working on languages like JavaScript, Python, JAVA and a few frameworks like React, Django, Flask and Spring.          
+▸ I, Jainish Bharti, an Information Technology Graduate, enjoys developing Backend logic of Web-Applications and sort of UX/UI Designing as well.                   
+▸ I'm practicing Software Development as Full Stack Software Developer in an organization caled DataGrokr Analytics Pvt. Ltd.                                           
+▸ I am proficient in woring on languages like JavaScript, Typescript, Python, JAVA and a few frameworks like React, Django, Flask and Spring.
+▸ I've also explored Unit Testing, API testing, Front-end testing. Gained quite an experience as of now!
 ▸ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!.                                                                            
-▸ Trying my hands on Java Development using Spring, JAX-RS, JSPs & Servlets.                                                                                                           
+▸ Currently exploring on Java side of Development using Spring, JAX-RS, Hibernate etcetra.                                                                                                           
 ▸ Also planning to upgrade my skills as Data Scientist.                                                                                               
 
 
@@ -19,7 +20,7 @@
 
 #### Skills& Experiences
 ▸ Years of Experience with Web UI Designing and Development&nbsp;       
-▸ HTML5, CSS3 & Javascript&nbsp;     
+▸ HTML5, CSS3, Javascript, & Typescript&nbsp;     
 ▸ MERN Stack Development&nbsp;                     
 ▸ Worked on Django, Flask, Spring, Jax-Rs, React, Redux &nbsp;             
 ▸ Deployment and Hosting&nbsp;                                           
@@ -34,6 +35,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
@@ -43,15 +45,17 @@
 
 
 #### Projects
+ - A restaurant app, with proper reservation system, will be up somewhere soon!
+ - Recently made a todoApp using Jax-Rs(Jersey) and React
  - Working on web application of Health.io(Smart Healthcare Management System)
  - Built a Online BookSelling Portal named as BookTown- Resell And Explore [https://murmuring-hamlet-71750.herokuapp.com/]
  - Built a task/notes making application [https://notes-313614.web.app]
  - Built & Hosted a static website for an Electrical Store
 
 #### Current Objectives
-- 🌱 I’m currently practising my React & Redux Skills.
-- 🌟 Getting my hands on Data Structure and Algorithms.
-- 🎡 Working on my Problem Solving Skills
+- 🌱 To practise all these technologies, and dive deep through all of it.
+- 🌟 Implement Data Structure and Algorithms on problems i'll come across.
+- 🎡 Work and improve my Problem-Solving Skills!
 
 #### Others
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
