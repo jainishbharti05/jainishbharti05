@@ -1,12 +1,13 @@
 # Jainish Bharti
 #### Full Stack Developer
 
-▸ I, Jainish Bharti, an Information Technology Graduate, enjoys developing Backend logic of Web-Applications and sort of UX/UI Designing as well.                   
-▸ I'm practicing Software Development as Full Stack Software Developer in an organization caled DataGrokr Analytics Pvt. Ltd.                                           
+▸ I, Jainish Bharti, an IT Graduate, enjoys developing Backend for applications & sort of front-end logic as well.
+▸ I'm practicing Software Development as Full Stack Software Developer in an organization caled DataGrokr Analytics Pvt. Ltd.
 ▸ I am proficient in woring on languages like JavaScript, Typescript, Python, JAVA and a few frameworks like React, Django, Flask and Spring.
 ▸ I've also explored Unit Testing, API testing, Front-end testing. Gained quite an experience as of now!
-▸ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!.                                                                            
-▸ Currently exploring on Java side of Development using Spring, JAX-RS, Hibernate etcetra.                                                                                                           
+▸ Preferably,I choose MERN [MongoDb, Express, ReactJs, NodeJs] as my working Stack!.
+▸ Currently exploring on Java side of Development using Spring, JAX-RS, Hibernate etcetra.
+
 ▸ Also planning to upgrade my skills as Data Scientist.                                                                                               
 
 
