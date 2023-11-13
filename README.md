@@ -61,28 +61,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
-
-
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/jainishbharti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://www.gmail.com/jainishbharti05@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/jainish_thinks"><img src="https://img.shields.io/badge/-@jainish_thinks-05122A?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
-
-
-
-
-
-   
-
-
-. 
-
-
-
-
-
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github
