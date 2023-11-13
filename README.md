@@ -61,4 +61,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github
